@@ -1,0 +1,6 @@
+# No external dependencies required for basic functionality
+# All tests use Python's built-in unittest framework
+
+# Optional: For enhanced testing capabilities, you could add:
+# pytest>=7.0.0
+# coverage>=6.0.0
